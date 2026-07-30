@@ -14,7 +14,7 @@ body{
 #header{
     height: 135vh;
     width: 100%;
-    background-image: url(my\ background.jpeg);
+    background-image: url(images/my\ background.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -316,7 +316,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(phone\ background.jpeg);
+        background-image: url(images/phone\ background.jpeg );
     }
     .header-text{
         margin-top: 100%;
