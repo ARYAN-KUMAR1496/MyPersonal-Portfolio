@@ -12,7 +12,7 @@ body{
     color: #fff;
 }
 #header{
-    height: 135vh;
+    height: 100vh;
     width: 100%;
     background-image: url(images/my\ background.jpeg);
     background-size: cover;
@@ -321,7 +321,7 @@ nav .fa-solid{
         background-repeat: no-repeat;
         background-position: top center;
         background-color: #080808;
-        height: 100vh;
+        
     }
 
 
