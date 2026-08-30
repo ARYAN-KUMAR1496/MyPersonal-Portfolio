@@ -317,14 +317,9 @@ nav .fa-solid{
 @media only screen and (max-width: 600px){
     #header{
         background-image: url(images/phone\ background.jpeg );
-        height: 133vw;
-        min-height: 0;
-        background-size: 100% auto  ;
-        background-repeat: no-repeat;
-        background-position: top center;
+    
     
     }
-
 
     .header-text{
         margin-top: 100%;
